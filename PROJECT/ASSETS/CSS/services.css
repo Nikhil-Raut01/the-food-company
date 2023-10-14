@@ -1,0 +1,47 @@
+
+.order{
+    text-align: center;
+    background-color: orange;
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 1px 0.3px gray;
+    box-shadow:3px 3px 1px gray ;
+    border-radius: 5px;
+}
+
+.catering {
+    text-align: center;
+    background-color: orange;
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 1px 0.3px gray;
+    box-shadow:3px 3px 1px gray ;
+    border-radius: 5px;
+}
+.jumbo {
+text-align: justify;
+
+}
+.cheese {
+    text-align: justify;
+    
+    
+}
+.sandwich {
+    text-align: justify;
+}
+.coke{
+    text-align: justify;
+}
+.delivery{
+    text-align: center;
+    background-color: orange;
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 1px 0.3px gray;
+    box-shadow:3px 3px 1px gray ;
+    border-radius: 5px;
+}
+.p:hover{
+       transition-property: inherit;
+}
